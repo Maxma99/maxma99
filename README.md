@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [maxma99.github.io](maxma99.github.io)
 
-- 📫 How to reach me: **aq345368647@outlook.com**
 
 <p align="left">
 </p>
