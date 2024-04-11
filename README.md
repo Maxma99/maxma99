@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A passionate coding learner from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxma99&label=Profile%20views&color=0e75b6&style=flat" alt="maxma99" /> </p>
 
@@ -23,9 +22,8 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [maxma99.github.io](maxma99.github.io)
 
-- 📫 How to reach me **aq345368647@outlook.com**
+- 📫 How to reach me: **aq345368647@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
