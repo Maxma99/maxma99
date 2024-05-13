@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **PyTorch, Python, etc.**
 
-- 📝 I regularly write articles on [maxma99.github.io](maxma99.github.io)
+- 📝 I write articles on [My Blog](https://maxma99.github.io)
 
 
 <p align="left">
